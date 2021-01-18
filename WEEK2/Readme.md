@@ -4,3 +4,5 @@
 
 ## Gradient Descent method
 
+### Derivatives
+
