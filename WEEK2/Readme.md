@@ -9,6 +9,8 @@
 
 ### Derivatives
 
+### Chain rule to calculate derivatives
+
 ### Computational graphs - examples
 
 ### Computational graphs for logistic regression
